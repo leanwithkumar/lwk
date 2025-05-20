@@ -3,12 +3,3 @@
 This is my personal portfolio website built using React, TypeScript, and ShadCN UI.  
 The project is designed to showcase my work, skills, and contact information.
 
-### Tech Stack
-- React
-- TypeScript
-- ShadCN UI
-- Vite
-
-### Author
-Abhay Kumar  
-[GitHub](https://github.com/leanwithkumar) • [LinkedIn](https://www.linkedin.com/in/abhay-kumar-443b981b6/)
