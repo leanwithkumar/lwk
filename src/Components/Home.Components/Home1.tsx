@@ -8,32 +8,28 @@ export default function Home1() {
       <div className="py-10">
         <Marquee speed={50} gradient={false}>
           <img
-            src="src/assets/photo_2025-05-19_14-33-25.jpg"
+            src="public\photo_2025-05-19_14-33-25.jpg"
             alt="Mega Limb Camp"
             className="mx-6 h-100"
           />
           <img
-            src="src/assets/photo_2025-05-19_14-33-45.jpg"
+            src="public\photo_2025-05-19_14-33-45.jpg"
             alt="Blood Donation Camp"
             className="mx-6 h-100"
           />
           <img
-            src="src/assets/photo_2025-05-19_14-33-51.jpg"
+            src="public\photo_2025-05-19_14-33-51.jpg"
             alt="IIT Delhi"
             className="mx-6 h-100"
           />
+      
           <img
-            src="src/assets/photo_2025-05-19_14-34-17.jpg"
+            src="public\photo_2025-05-19_14-34-17.jpg"
             alt="MR Roadies"
             className="mx-6 h-100"
           />
           <img
-            src="src/assets/photo_2025-05-19_14-34-08.jpg"
-            alt="MR Roadies"
-            className="mx-6 h-100"
-          />
-          <img
-            src="src/assets/photo_2025-05-19_14-33-55.jpg"
+            src="public\photo_2025-05-19_14-33-55.jpg"
             alt="Rotary International"
             className="mx-6 h-100 "
           />
