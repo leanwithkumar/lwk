@@ -36,7 +36,7 @@ export default function Contact() {
         </blockquote>
       </div>
 
-      {/* Social Icons */}
+      
       <div className="flex flex-wrap justify-center items-center gap-6 sm:gap-8 md:gap-10 px-4 sm:px-10 md:px-20 lg:px-40 mb-10 py-10">
         {socials.map(({ icon, url, label }, index) => (
           <div

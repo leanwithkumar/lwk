@@ -1,4 +1,4 @@
-// Home1.tsx
+
 import Marquee from "react-fast-marquee";
 import { motion } from "framer-motion";
 
@@ -8,35 +8,35 @@ export default function Home1() {
       <div className="py-10">
         <Marquee speed={50} gradient={false}>
           <img
-            src="public\photo_2025-05-19_14-33-25.jpg"
+            src="/photo_2025-05-19_14-33-25.jpg"
             alt="Mega Limb Camp"
             className="mx-6 h-100"
           />
           <img
-            src="public\photo_2025-05-19_14-33-45.jpg"
+            src="/photo_2025-05-19_14-33-45.jpg"
             alt="Blood Donation Camp"
             className="mx-6 h-100"
           />
           <img
-            src="public\photo_2025-05-19_14-33-51.jpg"
+            src="/photo_2025-05-19_14-33-51.jpg"
             alt="IIT Delhi"
             className="mx-6 h-100"
           />
       
           <img
-            src="public\photo_2025-05-19_14-34-17.jpg"
+            src="/photo_2025-05-19_14-34-17.jpg"
             alt="MR Roadies"
             className="mx-6 h-100"
           />
           <img
-            src="public\photo_2025-05-19_14-33-55.jpg"
+            src="/photo_2025-05-19_14-33-55.jpg"
             alt="Rotary International"
             className="mx-6 h-100 "
           />
         </Marquee>
 
-        {/* Animated Text Section */}
-        <div className="py-10"> {/* Change font here */}
+        
+        <div className="py-10"> 
           <motion.div
             className="text-4xl pb-5 font-bold"
             initial={{ opacity: 0, y: 30 }}
